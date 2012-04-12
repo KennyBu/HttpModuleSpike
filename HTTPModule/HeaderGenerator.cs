@@ -8,7 +8,7 @@ namespace HTTPModule
          {
              var stringBuilder = new StringBuilder();
              stringBuilder.AppendLine("<script type=\"text/javascript\">");
-             stringBuilder.AppendLine("//Ken Test");
+             stringBuilder.AppendLine("//Test - Script Text Would Go Here!");
              stringBuilder.AppendLine("</script>");
 
              return stringBuilder.ToString();
