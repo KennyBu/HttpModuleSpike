@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPModuleSpike", "HTTPModuleSpike\HTTPModuleSpike.csproj", "{7752F5AC-100B-4A0F-AD45-D40A957771F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPModule", "HTTPModule\HTTPModule.csproj", "{569934AE-DE3F-412D-BCA7-3F22064E6188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7752F5AC-100B-4A0F-AD45-D40A957771F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7752F5AC-100B-4A0F-AD45-D40A957771F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7752F5AC-100B-4A0F-AD45-D40A957771F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7752F5AC-100B-4A0F-AD45-D40A957771F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569934AE-DE3F-412D-BCA7-3F22064E6188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569934AE-DE3F-412D-BCA7-3F22064E6188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569934AE-DE3F-412D-BCA7-3F22064E6188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569934AE-DE3F-412D-BCA7-3F22064E6188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
